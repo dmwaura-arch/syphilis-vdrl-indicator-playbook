@@ -6,7 +6,7 @@ This project demonstrates how a routine laboratory observation and an emerging p
 
 During routine laboratory work, I became curious after noticing what appeared to be an increase in VDRL testing and positive results. A 2026 medRxiv preprint reporting syphilis seropositivity among key populations in Nairobi further prompted me to explore how such a signal could be systematically monitored using routine healthcare data.
 
-Importantly, this project does **not** attempt to establish that syphilis is increasing nationally. Instead, it demonstrates an approach to defining, measuring, validating, and interpreting a potential surveillance signal.
+Importantly, this project does **not** attempt to establish that syphilis is increasing nationally. Instead, it demonstrates an approach to defining, measuring, validating and interpreting a potential surveillance signal.
 
 ## Project Objective
 
@@ -45,7 +45,7 @@ To develop a practical indicator playbook for monitoring **Syphilis/VDRL Test Po
 
 > **A change in an indicator is a signal for investigation—not automatically proof of a change in disease burden.**
 
-Changes in positivity may be influenced by testing volume, population characteristics, repeat testing, reporting practices, data quality, or genuine epidemiological changes.
+Changes in positivity may be influenced by testing volume, population characteristics, repeat testing, reporting practices, data quality or genuine epidemiological changes.
 
 VDRL positivity should therefore not be interpreted on its own as confirmation of active syphilis or population-level prevalence.
 
